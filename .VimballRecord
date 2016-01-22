@@ -1,0 +1,2 @@
+supertab.vmb: call delete('/home/fgokey/.vim/doc/supertab.txt')|call delete('/home/fgokey/.vim/plugin/supertab.vim')
+winmanager.vmb: call delete('/home/fgokey/.vim/doc/winmanager.txt')|call delete('/home/fgokey/.vim/plugin/winfileexplorer.vim')|call delete('/home/fgokey/.vim/plugin/winmanager.vim')|call delete('/home/fgokey/.vim/plugin/wintagexplorer.vim')
